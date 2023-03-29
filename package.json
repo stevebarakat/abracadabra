@@ -1,0 +1,21 @@
+{
+  "name": "abracadabra",
+  "displayName": "abracadabra",
+  "description": "a dark theme that is based on nako dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "abracadabra",
+        "uiTheme": "hc-black",
+        "path": "./themes/abracadabra-color-theme.json"
+      }
+    ]
+  }
+}
