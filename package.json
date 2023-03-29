@@ -1,10 +1,20 @@
 {
-  "name": "abracadabra",
-  "displayName": "abracadabra",
+  "name": "baracadabra",
+  "displayName": "baracadabra",
   "description": "a dark theme that is based on nako dark",
+  "publisher": "stevebarakat",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
+  },
+  "author": {
+    "name": "S.Barakat",
+    "email": "stevebarakat@gmail.com",
+    "url": "https://stevebarakat.com"
+  },
+  "repository": {
+    "url": "https://github.com/stevebarakat/abracadabra",
+    "type": "github"
   },
   "categories": [
     "Themes"
@@ -12,9 +22,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "abracadabra",
+        "label": "baracadabra",
         "uiTheme": "hc-black",
-        "path": "./themes/abracadabra-color-theme.json"
+        "path": "./themes/baracadabra-color-theme.json"
       }
     ]
   }
